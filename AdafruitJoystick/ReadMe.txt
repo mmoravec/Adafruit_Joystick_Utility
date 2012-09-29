@@ -1,5 +1,6 @@
 /* Matthew Moravec
    Adafruit 2-Axis Joystick Utility
+   Works with BeagleBone ver A6A
    9/28/2012
 */
 
